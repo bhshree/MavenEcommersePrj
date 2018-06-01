@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="56973" started-at="2018-05-31T06:51:58Z" finished-at="2018-05-31T06:52:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="56973" started-at="2018-05-31T06:51:58Z" finished-at="2018-05-31T06:52:55Z">
+      <class name="ecommerse.eccommers.TC001_Login">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:ecommerse.eccommers.TC001_Login@75881071]" name="beforeClass" is-config="true" duration-ms="44321" started-at="2018-05-31T06:51:58Z" finished-at="2018-05-31T06:52:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="login()[pri:0, instance:ecommerse.eccommers.TC001_Login@75881071]" name="login" duration-ms="12627" started-at="2018-05-31T06:52:42Z" finished-at="2018-05-31T06:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:ecommerse.eccommers.TC001_Login@75881071]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-05-31T06:52:55Z" finished-at="2018-05-31T06:52:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- ecommerse.eccommers.TC001_Login -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
